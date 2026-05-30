@@ -1,2 +1,16 @@
-# Customer-Segmentation-Analytics
-Customer behavior analysis project using data analytics techniques to identify customer segments and support marketing decision-making.
+# Customer Segmentation Analytics
+
+## Business Problem
+Analyze customer behavior and identify customer segments to improve marketing effectiveness.
+
+## Tools Used
+- SQL
+- Python
+- K-Means Clustering
+- PCA
+- Power BI
+
+## Project Presentation
+Please refer to:
+
+Customer_Behavior_Analysis.pdf
